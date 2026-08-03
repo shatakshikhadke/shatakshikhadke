@@ -7,7 +7,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shatakshikhadke/shatakshikhadke/main/header-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shatakshikhadke/shatakshikhadke/main/header-dark.png">
-  <img alt="Cybersecurity Banner" src="https://github.com/shatakshikhadke/shatakshikhadke/blob/2d2401843e1ed0914002b52e01ed669e82e842d6/header-light.png" width="100%">
+  <img alt="Cybersecurity Banner" src="https://github.com/shatakshikhadke/shatakshikhadke/blob/b0d67e68997dfd98dd8b7935d9800011c82b61f4/header-light.png" width="100%">
 </picture>
 
 <br>
@@ -76,7 +76,7 @@ I enjoy designing practical security tools, automating investigative workflows, 
 <td width="35%" align="center">
 
 <!-- Replace this with a direct GIF URL (ending in .gif) -->
-<img src="https://github.com/shatakshikhadke/shatakshikhadke/blob/2d2401843e1ed0914002b52e01ed669e82e842d6/cybersecurity-workstation-setup-stockcake.jpg " width="340px"/>
+<img src="https://github.com/shatakshikhadke/shatakshikhadke/blob/b0d67e68997dfd98dd8b7935d9800011c82b61f4/cybersecurity-workstation-setup-stockcake.jpg" width="340px"/>
 
 </td>
 
