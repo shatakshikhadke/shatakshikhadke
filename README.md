@@ -7,8 +7,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shatakshikhadke/shatakshikhadke/main/header-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shatakshikhadke/shatakshikhadke/main/header-dark.png">
-  <img alt="Cybersecurity Banner" src="https://github.com/shatakshikhadke/shatakshikhadke/blob/b0d67e68997dfd98dd8b7935d9800011c82b61f4/header-light.png" width="100%">
-</picture>
+  <div align="center">
+
+<img src="banner.png" alt="Banner" width="100%">
+
+</div>
 
 <br>
 
