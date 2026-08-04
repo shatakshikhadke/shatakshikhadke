@@ -127,7 +127,7 @@ I enjoy designing practical security tools, automating investigative workflows, 
 | ☁️ DevOps & AI on AWS: Upgrading Applications with Generative AI | AWS × Coursera |
 | 🔐 Fortinet NSE 2 – Network Security Associate | Fortinet |
 | 🌐 Protection from Browser Attacks | VOIS Tech |
-
+| 🔑 IT Support Foundations | Service Desk Simulator
 </div>
 
 # 📊 GitHub Analytics
